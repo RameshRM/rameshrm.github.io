@@ -9,12 +9,19 @@
 
 ### Employment
 
+===
 
 ### Technology Stack
 
+===
+
 ### Education
 
+===
+
 ### References
+
+===
 
 
 
