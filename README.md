@@ -35,9 +35,10 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 ##### Private Show Cases
 
-* [Document Imaging](#)
+** [Document Imaging](#)**
 
 ``` Document Imaging ``` as the name implies helps to digitize "Patient Documents".  I lead this product during my work @ Satellite Healthcare Inc.  The goal of this product to store patients' critical documents digitally.  This product contained two important features .
+
 
 ** Fax Interceptor **
 
