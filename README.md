@@ -36,15 +36,16 @@ This is an experimentaiton on "Polymer aka WebComponents".
 ##### Private Show Cases
 
 * [Document Imaging](#)
-``` Document Imaging ``` as the name implies helps to digitize "Patient Documents".  I lead this product during my work @ Satellite Healthcare Inc.  The goal of this product to store patients' critical documents digitally.  This product contained two important features 
 
-*** Fax Interceptor
+``` Document Imaging ``` as the name implies helps to digitize "Patient Documents".  I lead this product during my work @ Satellite Healthcare Inc.  The goal of this product to store patients' critical documents digitally.  This product contained two important features .
+
+** Fax Interceptor **
 
  1. Implementing an interceptor from Fax-gateway 
  2. Fax interceptor is a file system scheduler, always waits for file system change and triggers the image processor.
  3. Image processor converts the incomming fax document to a relevant PNG file and store the PNG file in to a central database.
  
-*** Document Viewer 
+** Document Viewer **
  1. Displays the un-read converted fax documents (PNG documents)
  2. Provides capability for the users to tag every page / range of pages to a particular patient
  3. Provides capability to write notes / annotation on that document tagged with a patient.
