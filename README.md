@@ -18,15 +18,25 @@
 
 `Cross Domain XHR` is a library to abstract `XMLHttpRequest` calls from your browser.  You might think why do we need a new library for XMLHttpReuest, where in the likes of jQuery exists.  The core problem this library addresses is "Cross Domain Ajax Requests".  This library provides ability to make standard CORS for supported browsers , for non-supported browsers provide a polyfill of "IFrame PostMessages". The library provides an option for you to choose configuration you want to use for Cross Domain Ajax calls.
 
+* [Page Composer Framework](http://www.ebay.co.uk/vrt/fashion) 
+
+Page Composer Framework is an extension modularizing web app development for Ebay pages.  This framework separates the concern and identifies Page WireFrame, Modules construct the data stream and the UI Component capable of rendering the module.  
+
+Page Composer Framework - enables developers to store different meta data information about (WireFrame, Modules & UI) for a given URL pattern.  The consuming application will provide the URL pattern to the `Page Composer Framework` and render the page. This framework enables Ebay to evolve with custom built pages faster and provided experimentation for different modules with different data sources within a matter of hours.
+
+** This framework was designed from groundup and implemented by me , using `Spring MVC`
+
+
 * [Polymer Auto Complete](https://github.com/RameshRM/polymer-autocomplete)
 
 This is an experimentaiton on "Polymer aka WebComponents", 
- 
-* [Page Composer Framework](http://www.ebay.co.uk/vrt/fashion) 
+
 
 ##### Private Show Cases
 
 * [Document Imaging](#)
+
+
 
 * [Medication Kiosk](#)
 
