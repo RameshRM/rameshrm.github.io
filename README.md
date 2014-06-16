@@ -89,20 +89,14 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 #### Employment
 
-##### Ebay - Lead Engineer (July 2012 - today)
-
-##### Satellite Healthcare - Lead Engineer (Dec 2006 - today)
-
-##### Motorla - Engineer (Dec 2003 - Dec 2006)
-
-##### Mascon Global India - Engineer (2002 - 2003)
-
-##### Meru Convergent Technologies - Engineer (2000 - 2002)
-
-##### Ambathur Cloting Ltd - Engineer (1998 - 2000)
+ 1. Ebay - Lead Engineer (July 2012 - today)
+ 2. Satellite Healthcare - Lead Engineer (Dec 2006 - today)
+ 3. Motorla - Engineer (Dec 2003 - Dec 2006)
+ 4. Mascon Global India - Engineer (2002 - 2003)
+ 5. Meru Convergent Technologies - Engineer (2000 - 2002)
+ 6. Ambathur Cloting Ltd - Engineer (1998 - 2000)
 
 ===
-
 
 #### Education
 
