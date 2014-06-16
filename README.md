@@ -70,9 +70,6 @@ Discrete Features :
 Success Stories :
 * Popular diabetic medication identified for recall - This product is used to find the patients who were treated with the recalled medication.
 
-
-- Page Composer Framework is an extension modularizing web app development for Ebay pages.  This framework separates the concern and identifies Page WireFrame, Modules construct the data stream and the UI Component capable of rendering the module.
-
 #### [Clinical MD](https://secure1.spinmd.org/m)
 
 #### Protocol Rule Engine
@@ -98,7 +95,7 @@ Success Stories :
 
 ###### Database Technologies
 
-#### Sql Server & Oracle
+#### Sql Server / Oracle
 #### MongoDB (Limited exposure)
 
 ====
