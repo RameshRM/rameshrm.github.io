@@ -42,7 +42,7 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 #### Private Show Cases
 
-#### [Document Imaging](#)
+#### Document Imaging
 
 ``` Document Imaging ``` as the name implies helps to digitize "Patient Documents".  I lead this product during my work @ Satellite Healthcare Inc.  The goal of this product to store patients' critical documents digitally.  This product contained two important features .
 
@@ -60,17 +60,33 @@ This is an experimentaiton on "Polymer aka WebComponents".
  3. Provides capability to write notes / annotation on that document tagged with a patient.
 
 
-* [Medication Kiosk](#)
+#### Medication Kiosk
 
-* [Clinical MD](https://secure1.spinmd.org/m)
+#### [Clinical MD](https://secure1.spinmd.org/m)
 
-* [Protocol Rule Engine](#)
+#### Protocol Rule Engine
 
 
 
 =====
 
 #### Technology Stack
+
+##### Server Side Technologies
+
+###### Java / Spring MVC
+###### C# / AspNET MVC
+###### JavaScript / NodeJS
+
+##### Presentation Technologies
+
+##### HTML5 / CSS3 / Javascript
+    *  jQuery / Backbone / Underscore
+
+##### XAML / Silverlight / WPF - MVVM
+
+
+
 ====
 
 #### Employment
