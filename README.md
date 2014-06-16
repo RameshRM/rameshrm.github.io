@@ -72,9 +72,15 @@ Success Stories :
 
 #### [Clinical MD](https://secure1.spinmd.org/m)
 
+This is a HTML5 responsive / stateful "Single Page - Web App". This application enables "Clinical MDs" to maintain patient records, Rx medications and sign the notifications.
+
+Discrete Features :
+* Supports fully offline mode.
+* Packaged to native iOS using PhoneGap.
+
 #### Protocol Rule Engine
 
-
+Implemented C# "Medication Protocol Rule Engine". This rule engine is a custom "Pub/Sub" based rule engine listens for the patients lab results and triggers custom action recommended by the mdeication protocol.
 
 =====
 
@@ -90,6 +96,8 @@ Success Stories :
 
 #### HTML5 / CSS3 / Javascript
     *  jQuery / Backbone / Underscore
+
+#### iOS with Cordova - Phonegap
 
 #### XAML / Silverlight / WPF - MVVM
 
