@@ -129,12 +129,3 @@ Implemented C# "Medication Protocol Rule Engine". This rule engine is a custom "
 ##### Bachelor in Physics (1991 - 1994)
     (Madurai Kamaraj University - Madurai, India)
 
-===
-
-### References
-
-===
-
-
-
-
