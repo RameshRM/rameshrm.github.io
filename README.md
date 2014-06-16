@@ -62,6 +62,17 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 #### Medication Kiosk
 
+This is a HTML5 Kiosk application, integrated with barcode scanner.  This Kiosk enables clinical staff  track the medications dispensed to the patients per treatment. Kiosk not only enables to maintain dispensed medications also maintains the inventory for the medication.
+
+Discrete Features :
+* Supports fully offline mode
+
+Success Stories :
+* Popular diabetic medication identified for recall - This product is used to find the patients who were treated with the recalled medication.
+
+
+- Page Composer Framework is an extension modularizing web app development for Ebay pages.  This framework separates the concern and identifies Page WireFrame, Modules construct the data stream and the UI Component capable of rendering the module.
+
 #### [Clinical MD](https://secure1.spinmd.org/m)
 
 #### Protocol Rule Engine
@@ -84,6 +95,11 @@ This is an experimentaiton on "Polymer aka WebComponents".
     *  jQuery / Backbone / Underscore
 
 #### XAML / Silverlight / WPF - MVVM
+
+###### Database Technologies
+
+#### Sql Server & Oracle
+#### MongoDB (Limited exposure)
 
 ====
 
