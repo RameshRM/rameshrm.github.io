@@ -1,5 +1,5 @@
 
-#### About Me
+### Ramesh Mahadevan
 
  I am "Ramesh Mahadevan" engineer with strong design skills.  I love working on interesting products and thrive on developing products that works end to end.  I like the evolving of "Web Technologies" with Javascript being able to push the envelope of modern web.  ```Javascript``` lead the way for me from being an avid advocate of "Strongly Typed" languages from the likes of `C#`, `Java` etc.
 
@@ -124,7 +124,7 @@ Implemented C# "Medication Protocol Rule Engine". This rule engine is a custom "
  3. Motorla - Engineer (Dec 2003 - Dec 2006)
  4. Mascon Global India - Engineer (2002 - 2003)
  5. Meru Convergent Technologies - Engineer (2000 - 2002)
- 6. Ambathur Cloting Ltd - Engineer (1998 - 2000)
+ 6. Ambathur Clothing Ltd - Engineer (1998 - 2000)
 
 ===
 
