@@ -30,7 +30,7 @@ Page Composer Framework is an extension modularizing web app development for Eba
 
 Page Composer Framework - enables developers to store different meta data information about (WireFrame, Modules & UI) for a given URL pattern.  The consuming application will provide the URL pattern to the `Page Composer Framework` and render the page. This framework enables Ebay to evolve with custom built pages faster and provided experimentation for different modules with different data sources within a matter of hours.
 
-** This framework was designed from groundup and implemented by me , using `Spring MVC`**
+* This framework is designed from groundup and implemented by me , using `Spring MVC`*
 
 
 #### [Polymer Auto Complete](https://github.com/RameshRM/polymer-autocomplete)
