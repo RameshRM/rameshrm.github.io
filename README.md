@@ -1,6 +1,12 @@
 
 #### About Me
- I am an engineer with strong design skills.  I love working on interesting products and thrive on developing products that works end to end.  I like the evolving of "Web Technologies" with Javascript being able to push the envelope of modern web.  ```Javascript``` lead the way for me from being an avid advocate of "Strongly Typed" languages from the likes of `C#`, `Java` etc.
+
+ I am "Ramesh Mahadevan" engineer with strong design skills.  I love working on interesting products and thrive on developing products that works end to end.  I like the evolving of "Web Technologies" with Javascript being able to push the envelope of modern web.  ```Javascript``` lead the way for me from being an avid advocate of "Strongly Typed" languages from the likes of `C#`, `Java` etc.
+
+#### Contact
+
+Email : `mailto:rmrmail@gmail.com`
+Phone : 630.877.3409
 
 =====
 
