@@ -77,7 +77,7 @@ This is an experimentaiton on "Polymer aka WebComponents".
 ##### Java / Spring MVC
 ##### C# / AspNET MVC
 ##### JavaScript / NodeJS
-=====
+
 ###### Presentation Technologies
 
 #### HTML5 / CSS3 / Javascript
@@ -85,16 +85,32 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 #### XAML / Silverlight / WPF - MVVM
 
-
-
 ====
 
 #### Employment
+
+##### Ebay - Lead Engineer (July 2012 - today)
+
+##### Satellite Healthcare - Lead Engineer (Dec 2006 - today)
+
+##### Motorla - Engineer (Dec 2003 - Dec 2006)
+
+##### Mascon Global India - Engineer (2002 - 2003)
+
+##### Meru Convergent Technologies - Engineer (2000 - 2002)
+
+##### Ambathur Cloting Ltd - Engineer (1998 - 2000)
 
 ===
 
 
 #### Education
+
+##### Masters in Computer Science (1994 - 1997)
+    (BharathiDasan University - Trichy, India)
+
+##### Bachelor in Physics (1991 - 1994)
+    (Madurai Kamaraj University - Madurai, India)
 
 ===
 
