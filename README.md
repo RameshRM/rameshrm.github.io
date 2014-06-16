@@ -72,6 +72,8 @@ Success Stories :
 
 #### [Clinical MD](https://secure1.spinmd.org/m)
 
+##### https://secure1.spinmd.org/m
+
 This is a HTML5 responsive / stateful "Single Page - Web App". This application enables "Clinical MDs" to maintain patient records, Rx medications and sign the notifications.
 
 Discrete Features :
