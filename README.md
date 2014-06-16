@@ -72,18 +72,18 @@ This is an experimentaiton on "Polymer aka WebComponents".
 
 #### Technology Stack
 
-##### Server Side Technologies
+###### Server Side Technologies
 
-###### Java / Spring MVC
-###### C# / AspNET MVC
-###### JavaScript / NodeJS
+##### Java / Spring MVC
+##### C# / AspNET MVC
+##### JavaScript / NodeJS
 
-##### Presentation Technologies
+###### Presentation Technologies
 
-##### HTML5 / CSS3 / Javascript
+#### HTML5 / CSS3 / Javascript
     *  jQuery / Backbone / Underscore
 
-##### XAML / Silverlight / WPF - MVVM
+#### XAML / Silverlight / WPF - MVVM
 
 
 
